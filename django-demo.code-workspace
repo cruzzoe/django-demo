@@ -4,4 +4,9 @@
 			"path": "."
 		}
 	]
+	,
+	"settings": {
+		"python.defaultInterpreterPath": "/home/cruz/dev/django-demo/venv/bin/python",
+		"python.venvPath": "/home/cruz/dev/django-demo/venv"
+	}
 }
